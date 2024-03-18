@@ -1,0 +1,7 @@
+{
+    "editor.stickyScroll.scrollWithEditor": false,
+    "editor.stickyScroll.enabled": false,
+    "editor.hover.sticky": false,
+    "workbench.tree.enableStickyScroll": false,
+    "workbench.tree.stickyScrollMaxItemCount": 1
+}
