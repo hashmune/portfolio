@@ -1,11 +1,3 @@
-body {
-  background: #ffffff;
-  font-family: "Work Sans", sans-serif;
-  font-style: normal;
-  font-weight: 300;
-  overflow-x: hidden;
-}
-
 /*---------------------------------------
     Typorgraphy              
 -----------------------------------------*/
@@ -69,12 +61,21 @@ html {
   scroll-behavior: smooth;
 }
 
+body {
+  background: #ffffff;
+  font-family: "Work Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  overflow-x: hidden;
+}
+
 a {
-  color: #4d638c;
+  color: #333;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
-  text-decoration: none !important;
+  text-decoration: underline !important;
+  font-weight: 500;
 }
 a:hover,
 a:active,
